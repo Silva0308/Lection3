@@ -1,0 +1,15 @@
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/obj/Debug/net6.0/EX002.csproj.AssemblyReference.cache
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/obj/Debug/net6.0/EX002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/obj/Debug/net6.0/EX002.AssemblyInfoInputs.cache
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/obj/Debug/net6.0/EX002.AssemblyInfo.cs
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/obj/Debug/net6.0/EX002.csproj.CoreCompileInputs.cache
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/bin/Debug/net6.0/EX002
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/bin/Debug/net6.0/EX002.deps.json
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/bin/Debug/net6.0/EX002.runtimeconfig.json
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/bin/Debug/net6.0/EX002.dll
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/bin/Debug/net6.0/EX002.pdb
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/obj/Debug/net6.0/EX002.dll
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/obj/Debug/net6.0/refint/EX002.dll
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/obj/Debug/net6.0/EX002.pdb
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/obj/Debug/net6.0/EX002.genruntimeconfig.cache
+/Users/test/Documents/Программирование/C#/Lection3/Lection3/EX/EX002/obj/Debug/net6.0/ref/EX002.dll
